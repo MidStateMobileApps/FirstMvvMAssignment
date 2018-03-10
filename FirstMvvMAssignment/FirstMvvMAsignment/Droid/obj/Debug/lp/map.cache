@@ -1,5 +1,4 @@
 FirstMvvMAsignment
-System.Runtime
 MvvmCross.Binding
 MvvmCross.Binding.Droid
 MvvmCross.Core
@@ -7,3 +6,4 @@ MvvmCross.Droid
 MvvmCross.Localization
 MvvmCross.Platform
 MvvmCross.Platform.Droid
+System.Runtime
