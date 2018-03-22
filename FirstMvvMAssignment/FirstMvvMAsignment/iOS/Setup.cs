@@ -20,7 +20,7 @@ namespace FirstMvvMAsignment.iOS
 
         protected override IMvxApplication CreateApp()
         {
-            return new FirstMvvMAsignment.App();
+            return new NewProjectTemplate.App();
         }
         
         protected override IMvxTrace CreateDebugTrace()

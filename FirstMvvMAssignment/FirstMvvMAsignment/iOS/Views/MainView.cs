@@ -15,7 +15,7 @@ namespace FirstMvvMAsignment.iOS.Views
         {
             base.ViewDidLoad();
 
-            var set = this.CreateBindingSet<MainView, FirstMvvMAsignment.ViewModels.MainViewModel>();
+            var set = this.CreateBindingSet<MainView, NewProjectTemplate.ViewModels.MainViewModel>();
             set.Bind(TextField).To(vm => vm.Text);
             set.Bind(Button).To(vm => vm.ResetTextCommand);
             set.Apply();

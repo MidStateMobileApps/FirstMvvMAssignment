@@ -1,17 +1,21 @@
+using MvvmCross.Platform;
 using MvvmCross.Platform.IoC;
+using NewProjectTemplate.Services;
 
-namespace FirstMvvMAsignment
+namespace NewProjectTemplate
 {
     public class App : MvvmCross.Core.ViewModels.MvxApplication
     {
         public override void Initialize()
         {
-            CreatableTypes()
-                .EndingWith("Service")
-                .AsInterfaces()
-                .RegisterAsLazySingleton();
+            //CreatableTypes()
+            //    .EndingWith("Service")
+            //    .AsInterfaces()
+            //    .RegisterAsLazySingleton();
 
-            RegisterNavigationServiceAppStart<ViewModels.MainViewModel>();
+            Mvx.RegisterType<IListPopulatorService, ListPopulatorService>();
+
+            RegisterNavigationServiceAppStart<ViewModels.MainMenuViewModel>();
         }
     }
 }

@@ -1,32 +1,72 @@
+using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using MvvmCross.Core.ViewModels;
+using NewProjectTemplate.Models;
+using NewProjectTemplate.Services;
+using Newtonsoft.Json;
 
-namespace FirstMvvMAsignment.ViewModels
+namespace NewProjectTemplate.ViewModels
 {
     public class MainViewModel : MvxViewModel
     {
-        public MainViewModel()
+        private IListPopulatorService _populatorService;
+        private string _discList;
+        private MenuItem _menuItem;
+        private string _title;
+        private string _description;
+        public string DiscList
         {
+            get { return _discList; }
+            set { _discList = value; }
+        }
+
+        public MainViewModel(IListPopulatorService service)
+        {
+            _populatorService = service;
         }
         
         public override Task Initialize()
         {
-            //TODO: Add starting logic here
-		    
             return base.Initialize();
+        }
+
+        protected override void InitFromBundle(IMvxBundle parameters)
+        {
+            var item = JsonConvert.DeserializeObject<MenuItem>(parameters.Data["MenuItem"]);
+            _menuItem = new MenuItem(item.Title, null)
+            {
+                Description = item.Description,
+                Title = item.Title
+            };
+
+            _title = _menuItem.Title;
+            _description = _menuItem.Description;
         }
         
         public IMvxCommand ResetTextCommand => new MvxCommand(ResetText);
         private void ResetText()
         {
-            Text = "Hello MvvmCross";
+            Title = "Hello MvvmCross";
         }
 
         private string _text = "Hello MvvmCross";
         public string Text
         {
             get { return _text; }
-            set { SetProperty(ref _text, value); }
+            private set { SetProperty(ref _text, value); }
+        }
+
+        public string Description
+        {
+            get { return _description; }
+            set { SetProperty(ref _description, value); }
+        }
+
+        public string Title
+        {
+            get { return _title; }
+            set { SetProperty(ref _title, value); }
         }
     }
 }
