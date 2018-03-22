@@ -56,3 +56,6 @@
 /Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/Droid/obj/Debug/linksrc/MvvmCross.Localization.dll.mdb
 /Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/Droid/obj/Debug/linksrc/MvvmCross.Platform.dll.mdb
 /Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/Droid/obj/Debug/linksrc/MvvmCross.Platform.Droid.dll.mdb
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\FirstMvvMAsignment.Droid.csprojResolveAssemblyReference.cache
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\FirstMvvMAsignment.Droid.dll
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\FirstMvvMAsignment.Droid.pdb

@@ -12,3 +12,7 @@
 /Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.csproj.CoreCompileInputs.cache
 /Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.dll
 /Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.pdb
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.csprojResolveAssemblyReference.cache
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.csproj.CoreCompileInputs.cache
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.dll
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.pdb
