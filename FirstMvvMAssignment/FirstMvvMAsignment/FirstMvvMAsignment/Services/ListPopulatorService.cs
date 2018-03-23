@@ -61,16 +61,5 @@ namespace FirstMvvMAsignment.Services
             if (gb >= 0) return GoodBoyImages[gb];
             return string.Empty;
         }
-
-        public Task<List<MenuItem>> GetMenuItems()
-        {
-        //    List<string> GoodBoys = GetGoodBoys();
-        //    List<MenuItem> items = GoodBoys.Select(s => new MenuItem(s, Parent)).ToList();
-
-        //    //foreach (var i in items)
-        //    //{
-        //    //    i.Description = await Get
-        //    //}
-        }
     }
 }

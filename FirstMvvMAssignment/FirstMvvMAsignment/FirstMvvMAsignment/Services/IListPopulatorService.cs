@@ -17,7 +17,5 @@ namespace FirstMvvMAsignment.Services
         string GetGoodBoyInformation(string title);
 
         string GetGoodBoyImage(string title);
-
-        Task<List<MenuItem>> GetMenuItems();
     }
 }

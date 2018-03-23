@@ -7,3 +7,5 @@ MvvmCross.Localization
 MvvmCross.Platform
 MvvmCross.Platform.Droid
 System.Runtime
+Newtonsoft.Json
+System.Resources.ResourceManager
