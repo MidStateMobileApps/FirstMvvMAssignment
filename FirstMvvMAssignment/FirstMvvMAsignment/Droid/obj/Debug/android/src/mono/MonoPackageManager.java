@@ -115,8 +115,9 @@ class MonoPackageManager_Resources {
 		"MvvmCross.Localization.dll",
 		"MvvmCross.Platform.dll",
 		"MvvmCross.Platform.Droid.dll",
+		"Newtonsoft.Json.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_25";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_23";
 }

@@ -1,3 +1,5 @@
+using FirstMvvMAsignment.Services;
+using MvvmCross.Platform;
 using MvvmCross.Platform.IoC;
 
 namespace FirstMvvMAsignment
@@ -6,12 +8,14 @@ namespace FirstMvvMAsignment
     {
         public override void Initialize()
         {
-            CreatableTypes()
-                .EndingWith("Service")
-                .AsInterfaces()
-                .RegisterAsLazySingleton();
+            //CreatableTypes()
+            //    .EndingWith("Service")
+            //    .AsInterfaces()
+            //    .RegisterAsLazySingleton();
 
-            RegisterNavigationServiceAppStart<ViewModels.MainViewModel>();
+            Mvx.RegisterType<IListPopulatorService, ListPopulatorService>();
+
+            RegisterNavigationServiceAppStart<ViewModels.MainMenuViewModel>();
         }
     }
 }
