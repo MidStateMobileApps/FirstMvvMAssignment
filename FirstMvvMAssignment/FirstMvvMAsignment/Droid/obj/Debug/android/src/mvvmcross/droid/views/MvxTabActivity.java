@@ -19,15 +19,15 @@ public abstract class MvxTabActivity
 			"n_onPause:()V:GetOnPauseHandler\n" +
 			"n_onStop:()V:GetOnStopHandler\n" +
 			"";
-		mono.android.Runtime.register ("MvvmCross.Droid.Views.MvxTabActivity, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", MvxTabActivity.class, __md_methods);
+		mono.android.Runtime.register ("MvvmCross.Droid.Views.MvxTabActivity, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", MvxTabActivity.class, __md_methods);
 	}
 
 
-	public MvxTabActivity ()
+	public MvxTabActivity () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == MvxTabActivity.class)
-			mono.android.TypeManager.Activate ("MvvmCross.Droid.Views.MvxTabActivity, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("MvvmCross.Droid.Views.MvxTabActivity, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

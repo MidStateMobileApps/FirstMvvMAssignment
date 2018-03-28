@@ -11,15 +11,15 @@ public class MvxSimpleListItemView
 	static {
 		__md_methods = 
 			"";
-		mono.android.Runtime.register ("MvvmCross.Binding.Droid.Views.MvxSimpleListItemView, MvvmCross.Binding.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", MvxSimpleListItemView.class, __md_methods);
+		mono.android.Runtime.register ("MvvmCross.Binding.Droid.Views.MvxSimpleListItemView, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", MvxSimpleListItemView.class, __md_methods);
 	}
 
 
-	public MvxSimpleListItemView ()
+	public MvxSimpleListItemView () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == MvxSimpleListItemView.class)
-			mono.android.TypeManager.Activate ("MvvmCross.Binding.Droid.Views.MvxSimpleListItemView, MvvmCross.Binding.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("MvvmCross.Binding.Droid.Views.MvxSimpleListItemView, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 	private java.util.ArrayList refList;

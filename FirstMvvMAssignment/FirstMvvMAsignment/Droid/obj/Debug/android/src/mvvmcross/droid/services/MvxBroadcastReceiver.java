@@ -12,15 +12,15 @@ public abstract class MvxBroadcastReceiver
 		__md_methods = 
 			"n_onReceive:(Landroid/content/Context;Landroid/content/Intent;)V:GetOnReceive_Landroid_content_Context_Landroid_content_Intent_Handler\n" +
 			"";
-		mono.android.Runtime.register ("MvvmCross.Droid.Services.MvxBroadcastReceiver, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", MvxBroadcastReceiver.class, __md_methods);
+		mono.android.Runtime.register ("MvvmCross.Droid.Services.MvxBroadcastReceiver, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", MvxBroadcastReceiver.class, __md_methods);
 	}
 
 
-	public MvxBroadcastReceiver ()
+	public MvxBroadcastReceiver () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == MvxBroadcastReceiver.class)
-			mono.android.TypeManager.Activate ("MvvmCross.Droid.Services.MvxBroadcastReceiver, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("MvvmCross.Droid.Services.MvxBroadcastReceiver, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

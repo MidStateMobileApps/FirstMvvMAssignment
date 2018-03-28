@@ -12,23 +12,23 @@ public abstract class MvxIntentService
 		__md_methods = 
 			"n_onHandleIntent:(Landroid/content/Intent;)V:GetOnHandleIntent_Landroid_content_Intent_Handler\n" +
 			"";
-		mono.android.Runtime.register ("MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", MvxIntentService.class, __md_methods);
+		mono.android.Runtime.register ("MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", MvxIntentService.class, __md_methods);
 	}
 
 
-	public MvxIntentService (java.lang.String p0)
+	public MvxIntentService (java.lang.String p0) throws java.lang.Throwable
 	{
 		super (p0);
 		if (getClass () == MvxIntentService.class)
-			mono.android.TypeManager.Activate ("MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", "System.String, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0 });
+			mono.android.TypeManager.Activate ("MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", "System.String, mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", this, new java.lang.Object[] { p0 });
 	}
 
 
-	public MvxIntentService ()
+	public MvxIntentService () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == MvxIntentService.class)
-			mono.android.TypeManager.Activate ("MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

@@ -17,15 +17,15 @@ public class MvxFragment
 			"n_onPause:()V:GetOnPauseHandler\n" +
 			"n_onStop:()V:GetOnStopHandler\n" +
 			"";
-		mono.android.Runtime.register ("MvvmCross.Droid.Views.Fragments.MvxFragment, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", MvxFragment.class, __md_methods);
+		mono.android.Runtime.register ("MvvmCross.Droid.Views.Fragments.MvxFragment, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", MvxFragment.class, __md_methods);
 	}
 
 
-	public MvxFragment ()
+	public MvxFragment () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == MvxFragment.class)
-			mono.android.TypeManager.Activate ("MvvmCross.Droid.Views.Fragments.MvxFragment, MvvmCross.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("MvvmCross.Droid.Views.Fragments.MvxFragment, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

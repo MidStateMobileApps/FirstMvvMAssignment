@@ -22,15 +22,15 @@ public abstract class MvxEventSourceTabActivity
 			"n_startActivityForResult:(Landroid/content/Intent;I)V:GetStartActivityForResult_Landroid_content_Intent_IHandler\n" +
 			"n_onActivityResult:(IILandroid/content/Intent;)V:GetOnActivityResult_IILandroid_content_Intent_Handler\n" +
 			"";
-		mono.android.Runtime.register ("MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", MvxEventSourceTabActivity.class, __md_methods);
+		mono.android.Runtime.register ("MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", MvxEventSourceTabActivity.class, __md_methods);
 	}
 
 
-	public MvxEventSourceTabActivity ()
+	public MvxEventSourceTabActivity () throws java.lang.Throwable
 	{
 		super ();
 		if (getClass () == MvxEventSourceTabActivity.class)
-			mono.android.TypeManager.Activate ("MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid, Version=5.6.3.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 
