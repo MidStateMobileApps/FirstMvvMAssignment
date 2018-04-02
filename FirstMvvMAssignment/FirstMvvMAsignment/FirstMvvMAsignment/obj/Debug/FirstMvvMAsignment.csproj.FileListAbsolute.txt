@@ -12,3 +12,17 @@
 /Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.csproj.CoreCompileInputs.cache
 /Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.dll
 /Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.pdb
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\FirstMvvMAsignment.dll
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\FirstMvvMAsignment.pdb
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Binding.dll
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Core.dll
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Localization.dll
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Platform.dll
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Core.pdb
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Binding.pdb
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Localization.pdb
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.dll
+C:\Users\16312581\Desktop\mobile\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.pdb
