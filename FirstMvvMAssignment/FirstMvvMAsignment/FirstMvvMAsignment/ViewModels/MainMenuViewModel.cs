@@ -48,10 +48,10 @@ namespace FirstMvvMAsignment.ViewModels
             base.Start();
             MenuItems = new List<MenuItem>()
             {
-                new MenuItem("Good Boy1", this) {Description = "Tap for more information."},
-                new MenuItem("Good Boy2", this) {Description = "Tap for more information."},
-                new MenuItem("Good Boy3", this) {Description = "Tap for more information."},
-                new MenuItem("Good Boy4", this) {Description = "Tap for more information."}
+                new MenuItem("Air Bud", this) {Description = "Tap for more information."},
+                new MenuItem("Lassie", this) {Description = "Tap for more information."},
+                new MenuItem("Rin Tin Tin", this) {Description = "Tap for more information."},
+                new MenuItem("Wishbone", this) {Description = "Tap for more information."}
             };
         }
         public string Title { get; private set; }

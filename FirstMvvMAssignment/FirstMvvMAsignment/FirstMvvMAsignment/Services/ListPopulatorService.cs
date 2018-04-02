@@ -20,24 +20,24 @@ namespace FirstMvvMAsignment.Services
         {
             GoodBoys = new List<string>()
             {
-                "",
-                "",
-                "",
-                ""
+                "Air Bud",
+                "Lassie",
+                "Rin Tin Tin",
+                "Wishbone"
             };
             GoodBoyInfo = new List<string>()
             {
-                "",
-                "",
-                "",
-                ""
+                "The triple double doge",
+                "Long, lovely locks Lassie",
+                "A name so nice they used it twice -ish",
+                "The original doggo detective"
             };
             GoodBoyImages = new List<string>()
             {
-                "",
-                "",
-                "",
-                ""
+                "airbud",
+                "lassie",
+                "rintintin",
+                "wishbone"
             };
         }
 

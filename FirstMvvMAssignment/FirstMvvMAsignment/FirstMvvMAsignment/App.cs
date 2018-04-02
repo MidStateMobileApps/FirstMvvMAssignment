@@ -8,11 +8,6 @@ namespace FirstMvvMAsignment
     {
         public override void Initialize()
         {
-            //CreatableTypes()
-            //    .EndingWith("Service")
-            //    .AsInterfaces()
-            //    .RegisterAsLazySingleton();
-
             Mvx.RegisterType<IListPopulatorService, ListPopulatorService>();
 
             RegisterNavigationServiceAppStart<ViewModels.MainMenuViewModel>();

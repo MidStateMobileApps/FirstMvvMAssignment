@@ -103,6 +103,11 @@ C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\Firs
 C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\res\layout\splashscreen.xml
 C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\res\layout\mainview.xml
 C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\res\drawable\splash.png
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\res\drawable\lassie.png
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\res\drawable\rintintin.png
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\res\drawable\wishbone.png
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\res\drawable\airbud.png
+C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\res\drawable\placeholder.png
 C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\R.cs.flag
 C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\uploadflags.txt
 C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\bin\Debug\FirstMvvMAsignment.dll.mdb
@@ -117,7 +122,6 @@ C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\Firs
 C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\android\assets\MvvmCross.Platform.dll.mdb
 C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\android\assets\MvvmCross.Platform.Droid.dll.mdb
 C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\Droid\bin\Debug\FirstMvvMAsignment.Droid.dll
-C:\Users\14886572\Desktop\Mobile\FreudigmannAssignment2\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\FirstMvvMAsignment.dll
 bin\Debug\FirstMvvMAsignment.dll.mdb
 bin\Debug\Mono.Android.pdb
 bin\Debug\Mono.Android.Export.pdb

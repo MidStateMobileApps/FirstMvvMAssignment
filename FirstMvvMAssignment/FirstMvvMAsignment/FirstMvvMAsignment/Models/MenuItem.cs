@@ -27,6 +27,7 @@ namespace FirstMvvMAsignment.Models
             get { return _myDrawable; }
             set
             {
+                _myDrawable = value;
                 RaisePropertyChanged(() => MyDrawable);
             }
         }
