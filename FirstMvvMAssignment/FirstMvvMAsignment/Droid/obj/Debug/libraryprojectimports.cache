@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <Jars />
+  <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/Droid/obj/Debug/lp/2/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\pmorg\Desktop\Repo\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj/Debug/lp/2/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MvvmCross.Binding.Droid\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/Droid/obj/Debug/lp/2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\pmorg\Desktop\Repo\FirstMvvMAssignment\FirstMvvMAssignment\FirstMvvMAsignment\Droid\obj\Debug\__library_projects__\MvvmCross.Binding.Droid.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

@@ -67,17 +67,29 @@ containing a value of this type.
         public static final int MvxTemplate=0x7f010002;
     }
     public static final class drawable {
-        public static final int splash=0x7f020000;
+        public static final int astaroth=0x7f020000;
+        public static final int bagger288=0x7f020001;
+        public static final int barbatos=0x7f020002;
+        public static final int catapult=0x7f020003;
+        public static final int direwolf=0x7f020004;
+        public static final int ebonjag=0x7f020005;
+        public static final int juggernaut=0x7f020006;
+        public static final int placeholder=0x7f020007;
+        public static final int splash=0x7f020008;
     }
     public static final class id {
         public static final int MvvmCrossTagId=0x7f050000;
         public static final int MvxBindingTagUnique=0x7f050001;
-        public static final int myButton=0x7f050002;
+        public static final int myButton=0x7f050004;
+        public static final int tv1=0x7f050003;
+        public static final int tv2=0x7f050002;
     }
     public static final class layout {
-        public static final int main=0x7f040000;
-        public static final int mainview=0x7f040001;
-        public static final int splashscreen=0x7f040002;
+        public static final int listitem_mainmenu=0x7f040000;
+        public static final int main=0x7f040001;
+        public static final int mainmenuview=0x7f040002;
+        public static final int mainview=0x7f040003;
+        public static final int splashscreen=0x7f040004;
     }
     public static final class mipmap {
         public static final int icon=0x7f030000;

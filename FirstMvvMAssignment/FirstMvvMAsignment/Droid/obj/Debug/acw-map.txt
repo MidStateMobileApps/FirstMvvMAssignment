@@ -2,6 +2,10 @@ FirstMvvMAsignment.Droid.SplashScreen, FirstMvvMAsignment.Droid;md5d2022a2f9bb92
 FirstMvvMAsignment.Droid.SplashScreen, FirstMvvMAsignment.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d2022a2f9bb92838de009359f2515340.SplashScreen
 FirstMvvMAsignment.Droid.SplashScreen;md5d2022a2f9bb92838de009359f2515340.SplashScreen
 firstmvvmasignment.droid.SplashScreen;md5d2022a2f9bb92838de009359f2515340.SplashScreen
+FirstMvvMAsignment.Droid.Views.MainMenuView, FirstMvvMAsignment.Droid;md5ee0b2984d4379a09c746892b6c51e139.MainMenuView
+FirstMvvMAsignment.Droid.Views.MainMenuView, FirstMvvMAsignment.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0b2984d4379a09c746892b6c51e139.MainMenuView
+FirstMvvMAsignment.Droid.Views.MainMenuView;md5ee0b2984d4379a09c746892b6c51e139.MainMenuView
+firstmvvmasignment.droid.views.MainMenuView;md5ee0b2984d4379a09c746892b6c51e139.MainMenuView
 FirstMvvMAsignment.Droid.Views.MainView, FirstMvvMAsignment.Droid;md5ee0b2984d4379a09c746892b6c51e139.MainView
 FirstMvvMAsignment.Droid.Views.MainView, FirstMvvMAsignment.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ee0b2984d4379a09c746892b6c51e139.MainView
 FirstMvvMAsignment.Droid.Views.MainView;md5ee0b2984d4379a09c746892b6c51e139.MainView
