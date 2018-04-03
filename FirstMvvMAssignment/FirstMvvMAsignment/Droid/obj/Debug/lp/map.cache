@@ -6,4 +6,5 @@ MvvmCross.Droid
 MvvmCross.Localization
 MvvmCross.Platform
 MvvmCross.Platform.Droid
+Newtonsoft.Json
 System.Runtime

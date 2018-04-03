@@ -72,12 +72,16 @@ containing a value of this type.
     public static final class id {
         public static final int MvvmCrossTagId=0x7f050000;
         public static final int MvxBindingTagUnique=0x7f050001;
-        public static final int myButton=0x7f050002;
+        public static final int item1=0x7f050003;
+        public static final int item2=0x7f050002;
+        public static final int myButton=0x7f050004;
     }
     public static final class layout {
-        public static final int main=0x7f040000;
-        public static final int mainview=0x7f040001;
-        public static final int splashscreen=0x7f040002;
+        public static final int descview=0x7f040000;
+        public static final int itemview=0x7f040001;
+        public static final int main=0x7f040002;
+        public static final int mainview=0x7f040003;
+        public static final int splashscreen=0x7f040004;
     }
     public static final class mipmap {
         public static final int icon=0x7f030000;
