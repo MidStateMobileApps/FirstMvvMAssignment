@@ -1,14 +1,16 @@
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/FirstMvvMAsignment.dll
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/FirstMvvMAsignment.pdb
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/MvvmCross.Binding.dll
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/MvvmCross.Core.dll
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/MvvmCross.Localization.dll
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/MvvmCross.Platform.dll
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/MvvmCross.Platform.pdb
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/MvvmCross.Core.pdb
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/MvvmCross.Binding.pdb
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/bin/Debug/MvvmCross.Localization.pdb
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.csprojResolveAssemblyReference.cache
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.csproj.CoreCompileInputs.cache
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.dll
-/Users/sstilson/Source/Repos/FirstMvvMAssignment/FirstMvvMAssignment/FirstMvvMAsignment/FirstMvvMAsignment/obj/Debug/FirstMvvMAsignment.pdb
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\FirstMvvMAsignment.dll
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\FirstMvvMAsignment.pdb
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Binding.dll
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Core.dll
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Localization.dll
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Core.pdb
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Binding.pdb
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\MvvmCross.Localization.pdb
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.dll
+C:\Users\Kyle\Desktop\MSTC\Spring 2018\FirstMvvMAssignment\FirstMvvMAsignment\FirstMvvMAsignment\obj\Debug\FirstMvvMAsignment.pdb
