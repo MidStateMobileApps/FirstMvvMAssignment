@@ -1,3 +1,5 @@
+using FirstMvvMAsignment.Services;
+using MvvmCross.Platform;
 using MvvmCross.Platform.IoC;
 
 namespace FirstMvvMAsignment
@@ -11,7 +13,8 @@ namespace FirstMvvMAsignment
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterNavigationServiceAppStart<ViewModels.MainViewModel>();
+            Mvx.RegisterType<iListPopulatorService, ListPopulatorService>();
+            RegisterNavigationServiceAppStart<ViewModels.MainMenuViewModel>();
         }
     }
 }
